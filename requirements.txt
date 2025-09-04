@@ -1,0 +1,13 @@
+google-api-python-client
+pandas
+matplotlib
+seaborn
+vaderSentiment
+streamlit
+scikit-learn
+wordcloud
+clean-text
+spacy
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0.tar.gz
+transformers==4.34.0
+torch>=2.2.0
