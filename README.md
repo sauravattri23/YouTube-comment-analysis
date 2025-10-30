@@ -39,5 +39,5 @@ This project performs various analyses on YouTube comments, including sentiment 
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/sauravattri23/Receipt-Insights-App.git
+   git clone https://github.com/sauravattri23/YouTube-comment-analysis.git
 
